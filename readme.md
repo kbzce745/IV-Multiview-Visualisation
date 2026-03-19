@@ -36,7 +36,8 @@ The core objective of this project is to explore how different Information Visua
 Ensure you have Python 3.8+ installed. Install the required dependencies:
 ```bash
 pip install streamlit altair pandas numpy openpyxl xlrd
+```
 ### 2. Run the App
-    Make sure you are in the project’s root directory (i.e. the folder containing `app.py`), then run the following command in the Terminal to start the project:
+Make sure you are in the project’s root directory (i.e. the folder containing `app.py`), then run the following command in the Terminal to start the project:
 ```bash
 streamlit run app.py
