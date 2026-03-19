@@ -17,9 +17,9 @@ The core objective of this project is to explore how different Information Visua
 
 ## System Designs
 
-* **System A**: Designed for intuitive, everyday UI interactions. [cite_start]Uses Multi-dropdowns (T1) [cite: 294][cite_start], Histograms (T2) [cite: 312][cite_start], Scatterplots (T3) [cite: 330][cite_start], and Stacked Bar Charts (T4)[cite: 335].
-* **System B**: Designed for statistical comparison. [cite_start]Uses 1D Group Selection (T1) [cite: 294][cite_start], Boxplots (T2) [cite: 312][cite_start], 2D Heatmaps (T3) [cite: 330][cite_start], and Heatmap Grids (T4)[cite: 335].
-* **System C**: Designed for complex algorithmic insights and data abstraction. [cite_start]Uses a Hierarchical Tree for generalised selection (T1) [cite: 294][cite_start], Density Plots (T2) [cite: 312][cite_start], Anomaly Score Bar Charts (T3) [cite: 330][cite_start], and Line Charts (T4)[cite: 335].
+* **System A**: Designed for intuitive, everyday UI interactions. Uses Multi-dropdowns (T1) , Histograms (T2) , Scatterplots (T3) , and Stacked Bar Charts (T4).
+* **System B**: Designed for statistical comparison. Uses 1D Group Selection (T1) , Boxplots (T2) , 2D Heatmaps (T3) , and Heatmap Grids (T4).
+* **System C**: Designed for complex algorithmic insights and data abstraction. Uses a Hierarchical Tree for generalised selection (T1) , Density Plots (T2) , Anomaly Score Bar Charts (T3) , and Line Charts (T4).
 
 ---
 
