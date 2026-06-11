@@ -1,17 +1,17 @@
 # IV Group Project: Multiview Visualisation
 
-[cite_start]An interactive, multi-view data visualization project developed for the Information Visualisation (IV) course[cite: 279]. [cite_start]This project evaluates three distinct visualization systems (System A, B, and C) to explore and analyze the **Taiwan Credit Card Client Default dataset**[cite: 283].
+An interactive, multi-view data visualization project developed for the Information Visualisation (IV) course. This project evaluates three distinct visualization systems (System A, B, and C) to explore and analyze the **Taiwan Credit Card Client Default dataset**.
 
 ## Project Overview
 The core objective of this project is to explore how different Information Visualisation design decisions impact user efficiency and comprehension. We designed three systems to perform the exact same four tasks, ranging from basic filtering to advanced anomaly detection. 
 
-[cite_start]All systems support **multi-view composition** and **brushing and linking**[cite: 30]. [cite_start]System C additionally features a powerful **generalised selection** mechanism using hierarchical semantic abstraction[cite: 33, 34, 35].
+All systems support **multi-view composition** and **brushing and linking**.System C additionally features a powerful **generalised selection** mechanism using hierarchical semantic abstraction.
 
 ### The Four Analytical Tasks
-1. [cite_start]**T1: Search and Select**: Isolate a specific high-risk demographic[cite: 293].
-2. [cite_start]**T2: Summarize and Compare**: Compare the distribution of the Credit Limit between defaulting and non-defaulting customers[cite: 310].
-3. [cite_start]**T3: Find Outliers**: Identify the most dangerous outliers (high bill amount but low payment amount)[cite: 328].
-4. [cite_start]**T4: Analyze Trends**: Observe the repayment status trends over a 6-month period[cite: 331, 332].
+1.  **T1: Search and Select**: Isolate a specific high-risk demographic.
+2.  **T2: Summarize and Compare**: Compare the distribution of the Credit Limit between defaulting and non-defaulting customers.
+3.  **T3: Find Outliers**: Identify the most dangerous outliers (high bill amount but low payment amount).
+4.  **T4: Analyze Trends**: Observe the repayment status trends over a 6-month period.
 
 ---
 
@@ -25,7 +25,7 @@ The core objective of this project is to explore how different Information Visua
 
 ## Tech Stack
 * **Framework**: [Streamlit](https://streamlit.io/) (for interactive web app deployment)
-* [cite_start]**Visualization**: [Altair](https://altair-viz.github.io/) (Vega-Lite Python wrapper for declarative statistical visualization) [cite: 5]
+*  **Visualization**: [Altair](https://altair-viz.github.io/) (Vega-Lite Python wrapper for declarative statistical visualization)
 * **Data Processing**: Pandas, NumPy
 
 ---
